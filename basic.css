@@ -19,19 +19,21 @@ body {
   font-weight: 600;
   text-align: center;
   font-size: 2em;
+  color: hsl(234, 12%, 34%);
 }
 
 .light-title{
   font-weight: 200;
   text-align: center;
   font-size: 2.05em;
-  color:  hsl(234, 12%, 34%)
+  color:  hsl(229, 6%, 66%)
 }
 
 .title-para
 {
-font-weight: 200;
+font-weight: 400;
 text-align: center;
+color:hsl(229, 6%, 66%)
 }
 
 .column_one
@@ -155,7 +157,8 @@ align-items: center;
   text-align: left;
   font-size: 20px;
   margin-left: 20px;
-  height: 15%
+  height: 15%;
+  color:hsl(234, 12%, 34%)
   
 }
 
@@ -163,8 +166,9 @@ align-items: center;
 .box-paragraph
 {
   text-align: left;
-  font-weight: 300;
+  font-weight: 400;
   font-size:14px;
+  color: hsl(229, 6%, 66%);
   margin-left: 20px
 }
 
